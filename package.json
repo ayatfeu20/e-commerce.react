@@ -1,28 +1,5 @@
 {
-  "name": "e-commerce.react",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "dev": "nodemon server"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ayatfeu20/e-commerce.react.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ayatfeu20/e-commerce.react/issues"
-  },
-  "homepage": "https://github.com/ayatfeu20/e-commerce.react#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  },
   "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^9.0.0",
-    "express": "^4.17.1",
-    "mongoose": "^5.12.7"
+    "redux": "^4.1.0"
   }
 }
